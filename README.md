@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cradio/cradio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=cradio&count_private=true&show_icons=true&border_radius=12&title_color=0d6efd&bg_color=212125&text_color=cacad0" align="left" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cradio&layout=compact&border_radius=12&title_color=0d6efd&bg_color=212125&text_color=cacad0" align="left" height="165"></p>
+
+### Btw I have over 50 private repos that aren't displayed here. So lang list is highly inaccurate.
+
+<br><br><br>
+<h3 align="center">Also I'm NOT hiring</h3>
