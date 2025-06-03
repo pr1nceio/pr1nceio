@@ -1,10 +1,10 @@
 # Welcome to the Insanity HQ!
 
-My name is Alexander, also known as [M41den](https://m41den.com), and I will be your host for today.
+My name is Alexander, also known as [M41den](https://m41den.dev), and I will be your host for today.
 
 I'm a Full Stack developer and a Computer Science student at [Voronezh State University](https://vsu.ru/).
 
-If you want to DM me, all my contacts can be found on [m41den.com](https://m41den.com). 
+If you want to DM me, all my contacts can be found on [m41den.dev](https://m41den.dev). 
 Yes, I can create a website for your business needs (incl. figuring out your brand identity, style, color palette, etc.)
 
 ## ✨ Frontend Development
